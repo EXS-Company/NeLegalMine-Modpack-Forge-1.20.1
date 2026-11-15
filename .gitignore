@@ -1,0 +1,30 @@
+# Minecraft runtime and personal data
+mods/*.jar
+shaderpacks/*.zip
+resourcepacks/*.zip
+!resourcepacks/NeLegal_Psychedelicraft_Fixes_1.20.1.zip
+logs/
+crash-reports/
+saves/
+screenshots/
+server-resource-packs/
+xaero/
+XaeroWaypoints_BACKUP/
+.physics_mod_cache/
+.connector/
+.forge1201-backup/
+emf/export/
+natives/
+
+# Launcher/account state
+usercache.json
+usernamecache.json
+TLauncherAdditional.json
+launcher_profiles.json
+servers.dat
+
+# Development
+.gradle/
+build/
+*.class
+*.log
