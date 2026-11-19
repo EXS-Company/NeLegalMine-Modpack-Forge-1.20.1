@@ -35,6 +35,7 @@
 - Camera Overhaul больше не изменяет камеру в третьем лице;
 - отключена водяная плёнка Psychedelicraft во время дождя;
 - добавлен совместимый шаблон моделей сигарет, порошков и курительных предметов;
+- добавлен авторский Endrexon 3D-прототип пшеницы с восемью стадиями роста;
 - четыре вкладки Psychedelicraft объединены в одну последовательную вкладку;
 - убраны старые дубли MineColonies, Structurize, BlockUI, Domum Ornamentum и CreativeCore;
 - из `mods` убран посторонний APKTool;
@@ -47,8 +48,9 @@
 2. Сделайте резервную копию своего профиля и миров.
 3. Установите моды из [MODLIST.md](MODLIST.md) только с официальных страниц авторов.
 4. Скопируйте проверенные конфиги из каталога `config`.
-5. Поместите `NeLegal_Psychedelicraft_Fixes_1.20.1.zip` в `resourcepacks` и включите его с самым высоким приоритетом.
-6. Первый запуск после обновления Psychedelicraft может быть дольше: Connector заново создаёт кэш.
+5. Поместите `NeLegal_Endrexon_3D_Wheat_1.20.1.zip` и `NeLegal_Psychedelicraft_Fixes_1.20.1.zip` в `resourcepacks`.
+6. Включите Endrexon 3D Wheat выше сторонних визуальных паков, а Psychedelicraft Fixes оставьте самым приоритетным.
+7. Первый запуск после обновления Psychedelicraft может быть дольше: Connector заново создаёт кэш.
 
 Порядок ресурс-паков описан в [docs/RESOURCE_PACK_ORDER.md](docs/RESOURCE_PACK_ORDER.md).
 

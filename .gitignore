@@ -3,6 +3,7 @@ mods/*.jar
 shaderpacks/*.zip
 resourcepacks/*.zip
 !resourcepacks/NeLegal_Psychedelicraft_Fixes_1.20.1.zip
+!resourcepacks/NeLegal_Endrexon_3D_Wheat_1.20.1.zip
 logs/
 crash-reports/
 saves/

@@ -1,0 +1,315 @@
+{
+    "ambientocclusion":  false,
+    "textures":  {
+                     "particle":  "minecraft:block/wheat_stage5",
+                     "crop":  "minecraft:block/wheat_stage5"
+                 },
+    "elements":  [
+                     {
+                         "name":  "row_z_04",
+                         "from":  [
+                                      0,
+                                      0,
+                                      3.875
+                                  ],
+                         "to":  [
+                                    16,
+                                    16,
+                                    4.125
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 }
+                                   }
+                     },
+                     {
+                         "name":  "row_x_04",
+                         "from":  [
+                                      3.875,
+                                      0,
+                                      0
+                                  ],
+                         "to":  [
+                                    4.125,
+                                    16,
+                                    16
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                }
+                                   }
+                     },
+                     {
+                         "name":  "row_z_12",
+                         "from":  [
+                                      0,
+                                      0,
+                                      11.875
+                                  ],
+                         "to":  [
+                                    16,
+                                    16,
+                                    12.125
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 }
+                                   }
+                     },
+                     {
+                         "name":  "row_x_12",
+                         "from":  [
+                                      11.875,
+                                      0,
+                                      0
+                                  ],
+                         "to":  [
+                                    12.125,
+                                    16,
+                                    16
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                }
+                                   }
+                     },
+                     {
+                         "name":  "row_z_08",
+                         "from":  [
+                                      0,
+                                      0,
+                                      7.875
+                                  ],
+                         "to":  [
+                                    16,
+                                    16,
+                                    8.125
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 }
+                                   }
+                     },
+                     {
+                         "name":  "row_x_08",
+                         "from":  [
+                                      7.875,
+                                      0,
+                                      0
+                                  ],
+                         "to":  [
+                                    8.125,
+                                    16,
+                                    16
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                }
+                                   }
+                     },
+                     {
+                         "name":  "row_z_02",
+                         "from":  [
+                                      0,
+                                      0,
+                                      1.875
+                                  ],
+                         "to":  [
+                                    16,
+                                    16,
+                                    2.125
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 }
+                                   }
+                     },
+                     {
+                         "name":  "row_x_14",
+                         "from":  [
+                                      13.875,
+                                      0,
+                                      0
+                                  ],
+                         "to":  [
+                                    14.125,
+                                    16,
+                                    16
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  "#crop"
+                                                }
+                                   }
+                     },
+                     {
+                         "name":  "row_z_14",
+                         "from":  [
+                                      0,
+                                      0,
+                                      13.875
+                                  ],
+                         "to":  [
+                                    16,
+                                    16,
+                                    14.125
+                                ],
+                         "shade":  false,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  "#crop"
+                                                 }
+                                   }
+                     }
+                 ]
+}
